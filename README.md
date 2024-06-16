@@ -39,7 +39,7 @@ Task 4: Package the application\
 Task 5: Run Unit tests on your application\
 Task 6: Deploy as web application using Flask\
 Task 7: Incorporate Error handling\
-Task 8: Run static code analysis\
+Task 8: Run static code analysis \
 
 
 **This program is Hand-on Lab practice from IBM Coursera\
