@@ -1,6 +1,8 @@
 # IBM-Python-Training
 #This is record the python code I have doing before\
 
+Content 1: **Simply GDP Data Extraction and Processing.py**
+Create a sumply Data Extraction and Process with selected data
 
 Content: 2:**Creating a Python Package**\
 **mymath file**\
