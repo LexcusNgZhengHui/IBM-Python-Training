@@ -17,9 +17,9 @@ Then will use the follow step:\
 -You should see an output 7 on the screen.\
 -At the python prompt type mymath.stats.mean([3,4,5])\
 -You should see an output 4.0 on the screen.\
--Type exit() to quit python interpreter.\
+-Type exit() to quit python interpreter.
 
-*I create a Practice Exercise to create a new Module :arearectangleandcircle.py \
+*I create a Practice Exercise to create a new Module :arearectangleandcircle.py 
 
 **Content 3: **Building and Deploying a Web App using Flask**\
 Create a basic application of mathematical functions and deploy it over a web interface using Flask.\
@@ -39,7 +39,7 @@ Task 4: Package the application\
 Task 5: Run Unit tests on your application\
 Task 6: Deploy as web application using Flask\
 Task 7: Incorporate Error handling\
-Task 8: Run static code analysis \
+Task 8: Run static code analysis 
 
 
-**This program is Hand-on Lab practice from IBM Coursera\
+**This program is Hand-on Lab practice from IBM Coursera
