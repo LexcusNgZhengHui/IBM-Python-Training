@@ -32,7 +32,7 @@ Last we lauch the application and set the port to the port have set in the serve
 In this project, we make use of the embedded Watson AI libraries, to create an application that would perform sentiment analysis on a provided text. \
 We then deploy the said application over the web using Flask framework.\
 Task have done
-Task 1: Clone the project repository: https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.git\
+Task 1: Clone the project repository: https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.git \
 Task 2: Create a sentiment analysis application using Watson NLP library\
 Task 3: Format the output of the application\
 Task 4: Package the application\
