@@ -6,8 +6,10 @@ Content: 2:**Creating a Python Package**
 First create a Module file - stats.py , basic.py
 Second create a __init__.py
 Then will use the follow step:
+
 -At the terminal type python3 to invoke python interpreter.
 -Once the python interpreter is loaded.
+
 -At the python prompt type import mymath
 -If the above command runs without errors, it is an indication that the mymath package is successfully loaded.
 -At the python prompt type mymath.basic.add(3,4)
