@@ -21,4 +21,11 @@ Then will use the follow step:\
 
 *I create a Practice Exercise to create a new Module :arearectangleandcircle.py \
 
+Content 3: **Building and Deploying a Web App using Flask**
+Create a basic application of mathematical functions and deploy it over a web interface using Flask.\
+First We write a function Maths file-mathematics.py\
+Second Package the functions which create a __init__.py\
+Third in the server.py we input the @app.route and def render_index_page(): return render_template('index.html')\
+Last we lauch the application and set the port to the port have set in the server.py file
+
 **This program is Hand-on Lab practice from IBM Coursera\
