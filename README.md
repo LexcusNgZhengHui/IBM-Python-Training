@@ -21,7 +21,7 @@ Then will use the follow step:\
 
 *I create a Practice Exercise to create a new Module :arearectangleandcircle.py \
 
-Content 3: **Building and Deploying a Web App using Flask**
+Content 3: **Building and Deploying a Web App using Flask**\
 Create a basic application of mathematical functions and deploy it over a web interface using Flask.\
 First We write a function Maths file-mathematics.py\
 Second Package the functions which create a __init__.py\
