@@ -1,8 +1,9 @@
 # IBM-Python-Training
-#This is record the python code I have doing before
+#This is record the python code I have doing before\
 
 
 Content: 2:**Creating a Python Package**\
+**mymath file**\
 First create a Module file - stats.py , basic.py\
 Second create a __init__.py
 Then will use the follow step:\
